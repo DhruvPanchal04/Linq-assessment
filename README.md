@@ -10,6 +10,7 @@ You need to recalculate the results while ensuring accuracy and consistency.
 
 You cannot rely on a traditional database for storing historical event data.
 
+ANSWER:
 Approach to Recovering and Back-Calculating Data
 
 Understanding the Problem
